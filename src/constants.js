@@ -20,7 +20,7 @@ import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 
 // Experience Section Logo's
-import blueStock from './assets/company_logo/blueStock.WEBP';
+import blueStock from './assets/company_logo/blueStock.webp';
 import HealBharat from './assets/company_logo/Heal Bharat.jpg';
 import shadowFox from './assets/company_logo/shadowFox.png';
 import GauravGo from './assets/company_logo/GauravGo.jpg';
