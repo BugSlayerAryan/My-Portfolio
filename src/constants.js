@@ -1,14 +1,29 @@
 // Skills Section Logo's
 import htmlLogo from './assets/tech_logo/html.png';
 import cssLogo from './assets/tech_logo/css.png';
+<<<<<<< HEAD
 import javascriptLogo from './assets/tech_logo/javascript.png';
 import reactjsLogo from './assets/tech_logo/reactjs.png';
 import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
 import bootstrapLogo from './assets/tech_logo/bootstrap.png';
+=======
+// import sassLogo from './assets/tech_logo/sass.png';
+import javascriptLogo from './assets/tech_logo/javascript.png';
+import reactjsLogo from './assets/tech_logo/reactjs.png';
+// import angularLogo from './assets/tech_logo/angular.png';
+// import reduxLogo from './assets/tech_logo/redux.png';
+// import nextjsLogo from './assets/tech_logo/nextjs.png';
+import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
+// import gsapLogo from './assets/tech_logo/gsap.png';
+// import materialuiLogo from './assets/tech_logo/materialui.png';
+import bootstrapLogo from './assets/tech_logo/bootstrap.png';
+// import springbootLogo from './assets/tech_logo/springboot.png';
+>>>>>>> 7cbfc08 (first commit)
 import nodejsLogo from './assets/tech_logo/nodejs.png';
 import expressjsLogo from './assets/tech_logo/express.png';
 import mysqlLogo from './assets/tech_logo/mysql.png';
 import mongodbLogo from './assets/tech_logo/mongodb.png';
+<<<<<<< HEAD
 import cLogo from './assets/tech_logo/c.png';
 import javaLogo from './assets/tech_logo/java.png';
 import pythonLogo from './assets/tech_logo/python.png';
@@ -26,14 +41,61 @@ import shadowFox from './assets/company_logo/ShadowFox.png';
 import GauravGo from './assets/company_logo/GauravGo.jpg';
 
 // Education Section Logo's
+=======
+// import firebaseLogo from './assets/tech_logo/firebase.png';
+import cLogo from './assets/tech_logo/c.png';
+// import cppLogo from './assets/tech_logo/cpp.png';
+import javaLogo from './assets/tech_logo/java.png';
+import pythonLogo from './assets/tech_logo/python.png';
+// import typescriptLogo from './assets/tech_logo/typescript.png';
+import gitLogo from './assets/tech_logo/git.png';
+import githubLogo from './assets/tech_logo/github.png';
+import vscodeLogo from './assets/tech_logo/vscode.png';
+// import postmanLogo from './assets/tech_logo/postman.png';
+// import mcLogo from './assets/tech_logo/mc.png';
+import figmaLogo from './assets/tech_logo/figma.png';
+import netlifyLogo from './assets/tech_logo/netlify.png';
+import vercelLogo from './assets/tech_logo/vercel.png';
+// import postgreLogo from './assets/tech_logo/postgre.png';
+// import csharpLogo from './assets/tech_logo/csharp.png';
+
+// Experience Section Logo's
+// import webverseLogo from './assets/company_logo/webverse_logo.png';
+// import agcLogo from './assets/company_logo/agc_logo.png';
+// import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
+
+import blueStock from './assets/company_logo/blueStock.WEBP';
+import HealBharat from './assets/company_logo/Heal Bharat.jpg';
+import shadowFox from './assets/company_logo/shadowFox.png';
+import GauravGo from './assets/company_logo/GauravGo.jpg';
+
+// Education Section Logo's
+// import glaLogo from './assets/education_logo/gla_logo.png';
+// import bsaLogo from './assets/education_logo/bsa_logo.png';
+// import vpsLogo from './assets/education_logo/vps_logo.png';
+
+>>>>>>> 7cbfc08 (first commit)
 import GitaLogo from './assets/education_logo/Gita.jpg';
 import BharagviLogo from './assets/education_logo/Bhargavi.png';
 import BSElogo from './assets/education_logo/BSE.webp';
 
 
 // Project Section Logo's
+<<<<<<< HEAD
 import Currency from './assets/work_logo/CurrencyConveter.png';
 import TicTacToc from './assets/work_logo/Tic-Tac-Toc.png'
+=======
+// import csprepLogo from './assets/work_logo/cs_prep.png';
+// import movierecLogo from './assets/work_logo/movie_rec.png';
+// import taskremLogo from './assets/work_logo/task_rem.png';
+// import npmLogo from './assets/work_logo/npm.png';
+// import webverLogo from './assets/work_logo/web_dig.png';
+// import cmLogo from './assets/work_logo/cm.png';
+// import removebgLogo from './assets/work_logo/remove_bg.png';
+import Currency from './assets/work_logo/CurrencyConveter.png';
+import TicTacToc from './assets/work_logo/Tic-Tac-Toc.png'
+import githubdetLogo from './assets/work_logo/github_det.png';
+>>>>>>> 7cbfc08 (first commit)
 import imagesearchLogo from './assets/work_logo/imageSearch.png';
 import VirtualLearn from './assets/work_logo/VirtualLearning.png'
 
@@ -44,28 +106,58 @@ export const SkillsInfo = [
     skills: [
       { name: 'HTML', logo: htmlLogo },
       { name: 'CSS', logo: cssLogo },
+<<<<<<< HEAD
       { name: 'JavaScript', logo: javascriptLogo },
       { name: 'React JS', logo: reactjsLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
+=======
+      // { name: 'SASS', logo: sassLogo },
+      { name: 'JavaScript', logo: javascriptLogo },
+      { name: 'React JS', logo: reactjsLogo },
+      // { name: 'Angular', logo: angularLogo },
+      // { name: 'Redux', logo: reduxLogo },
+      // { name: 'Next JS', logo: nextjsLogo },
+      { name: 'Tailwind CSS', logo: tailwindcssLogo },
+      // { name: 'GSAP', logo: gsapLogo },
+      // { name: 'Material UI', logo: materialuiLogo },
+>>>>>>> 7cbfc08 (first commit)
       { name: 'Bootstrap', logo: bootstrapLogo },
     ],
   },
   {
     title: 'Backend',
     skills: [
+<<<<<<< HEAD
+=======
+      // { name: 'Springboot', logo: springbootLogo },
+>>>>>>> 7cbfc08 (first commit)
       { name: 'Node JS', logo: nodejsLogo },
       { name: 'Express JS', logo: expressjsLogo },
       { name: 'MySQL', logo: mysqlLogo },
       { name: 'MongoDB', logo: mongodbLogo },
+<<<<<<< HEAD
+=======
+      // { name: 'Firebase', logo: firebaseLogo },
+      // { name: 'PostgreSQL', logo: postgreLogo },
+>>>>>>> 7cbfc08 (first commit)
     ],
   },
   {
     title: 'Languages',
     skills: [
       { name: 'C', logo: cLogo },
+<<<<<<< HEAD
       { name: 'Java', logo: javaLogo },
       { name: 'Python', logo: pythonLogo },
       { name: 'JavaScript', logo: javascriptLogo },
+=======
+      // { name: 'C++', logo: cppLogo },
+      { name: 'Java', logo: javaLogo },
+      { name: 'Python', logo: pythonLogo },
+      // { name: 'C-Sharp', logo: csharpLogo },
+      { name: 'JavaScript', logo: javascriptLogo },
+      // { name: 'TypeScript', logo: typescriptLogo },
+>>>>>>> 7cbfc08 (first commit)
     ],
   },
   {
@@ -74,6 +166,11 @@ export const SkillsInfo = [
       { name: 'Git', logo: gitLogo },
       { name: 'GitHub', logo: githubLogo },
       { name: 'VS Code', logo: vscodeLogo },
+<<<<<<< HEAD
+=======
+      // { name: 'Postman', logo: postmanLogo },
+      // { name: 'Compass', logo: mcLogo },
+>>>>>>> 7cbfc08 (first commit)
       { name: 'Vercel', logo: vercelLogo },
       { name: 'Netlify', logo: netlifyLogo },
       { name: 'Figma', logo: figmaLogo },
@@ -158,6 +255,18 @@ export const SkillsInfo = [
       desc: "I completed my Bachelor of Technology (B.Tech) in Computer Science from GITA University, Bhubaneswar. During my academic journey, I delved into a wide range of core computer science subjects that strengthened my foundation in technology and problem-solving. From mastering Data Structures and Algorithms to building real-world applications through Web Development and understanding Database Management Systems, I developed both theoretical knowledge and hands-on experience. My time at GITA University also involved working on innovative projects that translated classroom concepts into practical solutions.",
       degree: "Bachelor of Technology \n B-Tech (Computer Science)",
     },
+<<<<<<< HEAD
+=======
+    // {
+    //   id: 1,
+    //   img: bsaLogo,
+    //   school: "BSA College, Mathura",
+    //   date: "Sept 2018 - Aug 2021",
+    //   grade: "81.2%",
+    //   desc: "I completed my Bachelor's degree in Computer Science (B.Sc.) from BSA College, Mathura. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
+    //   degree: "Bachelor of Science - BSC (Computer Science)",
+    // },
+>>>>>>> 7cbfc08 (first commit)
     {
       id: 1,
       img: BharagviLogo,
@@ -219,4 +328,17 @@ export const SkillsInfo = [
       github: "https://github.com/BugSlayerAryan/Image-Search-App",
       webapp: "https://bugslayeraryan.github.io/Image-Search-App/",
     },
+<<<<<<< HEAD
+=======
+        {
+      id: 4,
+      title: "GitHub Profile Detective",
+      description:
+        "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
+      image: githubdetLogo,
+      tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
+      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
+      webapp: "https://githubprofiledetective.netlify.app/",
+    },
+>>>>>>> 7cbfc08 (first commit)
   ];  
