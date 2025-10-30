@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 // import React, { useEffect, useState } from "react";
 // import { FiMenu, FiX } from "react-icons/fi";
 // import { FaGithub, FaLinkedin } from "react-icons/fa";
@@ -150,7 +149,6 @@
 // export default Navbar;
 
 
->>>>>>> 7cbfc08 (first commit)
 import React, { useEffect, useState } from "react";
 import { FiMenu, FiX } from "react-icons/fi";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
