@@ -98,6 +98,7 @@ import githubdetLogo from './assets/work_logo/github_det.png';
 >>>>>>> 7cbfc08 (first commit)
 import imagesearchLogo from './assets/work_logo/imageSearch.png';
 import VirtualLearn from './assets/work_logo/VirtualLearning.png'
+import weather from './assets/work_logo/weather.png';
 
 
 export const SkillsInfo = [
@@ -320,6 +321,16 @@ export const SkillsInfo = [
     },
     {
       id: 3,
+      title: "Weather Forecast",
+      description:
+        "This project is a web-based weather app that shows real-time weather details of any city using the OpenWeatherMap API. Users can search for a location and view current temperature, humidity, weather condition, and wind speed. It fetches live data using API and displays it with a clean user interface.",
+      image: weather,
+      tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
+      github: "https://github.com/BugSlayerAryan/Weather-Forecast.git",
+      webapp: "https://weather-forecast-nine-pied.vercel.app/",
+    },
+    {
+      id: 4,
       title: "Image Search App",
       description:
         "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
